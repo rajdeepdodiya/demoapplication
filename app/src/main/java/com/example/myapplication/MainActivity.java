@@ -12,8 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        String branchName = "JS-1461";
-        String branchName = "master";
+        String branchName = "JS-1461" + "master";
 
     }
 }
